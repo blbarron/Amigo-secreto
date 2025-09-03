@@ -4,10 +4,6 @@ Una pequeña aplicación web para organizar un sorteo de **amigo secreto**. Los 
 
 ---
 
-## 🚀 Demo
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
